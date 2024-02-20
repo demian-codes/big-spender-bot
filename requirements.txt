@@ -1,3 +1,8 @@
+# Dependencies for development
+SQLAlchemy==2.0.25
+aiogram==3.3.0
+python-dotenv==1.0.1
+
 # Dependencies for linting, code formatting, etc.
 black==23.12.1
 flake8==7.0.0
